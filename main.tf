@@ -1,4 +1,4 @@
-# main.tf
+
 
 provider "aws" {
   region = "us-west-2"  # Set your preferred AWS region
